@@ -41,3 +41,21 @@
 [White]["When your start up IPOs."]
 
 [White]["Turning down $3b from Facebook."]
+
+[White]["Guy Kawasaki's evangelist ghost."]
+
+[White]["Literal constructs are quicker than alloc init."]
+
+[White]["Because of an enum"]
+
+[White]["Literals beat alloc inits"]
+
+[White]["Structs before Objects"]
+
+[White]["Structs have functions?"]
+
+[White]["Because Swift"]
+
+[White]["G4 Cube vs 25th Anniversary Mac"]
+
+[White]["NSEverything"]
